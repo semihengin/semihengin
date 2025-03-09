@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Semih</h1>
 
-## 💫 About Me:
 - 🔭 **AI/ML Developer from Turkey**, passionate about **artificial intelligence, data science, and deep learning**.  
 - 😄 **Worked on** machine learning, **deep learning model optimizations, cryptocurrency analysis, and time-series forecasting**.  
 - ⚡ **Interested in** AI model **optimization and real-world AI solutions**.  
 
-## 💻 Tech Stack:
+## 💻 Languages and Tools:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
@@ -18,9 +18,8 @@
 ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
 
-## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=semihengin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=semihengin&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=semihengin&theme=radical&hide_border=false)<br/><br/>
 
 <h2 align="center">You can reach me from this accounts:</h2>
 
