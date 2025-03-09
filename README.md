@@ -14,8 +14,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semihengin&theme=dark" alt="semihengin" /></p>
 
 
-<div align="center">
 ## You can reach me from this accounts
+<div align="center">
 <a href="https://github.com/semihengin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
