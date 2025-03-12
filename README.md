@@ -30,7 +30,8 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=semihengin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=semihengin&theme=radical&hide_border=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=semihengin&theme=radical&hide_border=false)
+<br/><br/>
 
 <h2 align="center">You can reach me from this accounts:</h2>
 
